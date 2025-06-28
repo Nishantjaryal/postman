@@ -44,7 +44,7 @@ A lightweight and modern Postman-inspired API testing tool built with **Snowpack
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repository
+### Clone the Repository
 
 ```bash
 git clone https://github.com/Nishantjaryal/postman.git
